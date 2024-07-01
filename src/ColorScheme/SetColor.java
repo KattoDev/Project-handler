@@ -2,6 +2,11 @@ package ColorScheme;
 
 import java.awt.Color;
 
+/**
+ * Sets a color from a predefined Scheme
+ * @see <a href="https://github.com/RitzzRiver/Color-Theme-handler/blob/main/src/ColorScheme/SetColor.java">github code</a>
+ * @author Kris
+ */
 public class SetColor{
     
     // color extracted from https://coolors.co/fffae7-f2ebce-d9c4a9-8b6455-6d4641-594e4a-c86845-a44c38
@@ -14,5 +19,4 @@ public class SetColor{
     public static final Color UMBER = new Color(88, 77, 73);
     public static final Color COPPER_RED = new Color(199, 103, 69);
     public static final Color CHESTNUT = new Color(163, 75, 56);
-
 }
