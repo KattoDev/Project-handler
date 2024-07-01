@@ -3,7 +3,7 @@ simple lib for handling java colors in RGB color space on the  [project Sistema 
 
 the lib include this Color scheme:
 
-<img src="./preview.jpg"/>
+<img src="./App.png"/>
 
 # How to use
 simply import the lib in library and use it in the color field as

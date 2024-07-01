@@ -4,37 +4,15 @@ import java.awt.Color;
 
 public class SetColor{
     
-    // color extracted from https://coolors.co/ffffff-e4d1d1-fe6c90-87286a-452459-260d34
+    // color extracted from https://coolors.co/fffae7-f2ebce-d9c4a9-8b6455-6d4641-594e4a-c86845-a44c38
+     
+    public static final Color COSMIC_LATE = new Color(109, 70, 65);
+    public static final Color EGGSHELL = new Color(242, 235, 206);
+    public static final Color DESERT_SAND = new Color(217, 196, 169);
+    public static final Color ROSE_TAUPE = new Color(139, 100, 85);
+    public static final Color ROSE_EBONY = new Color(109, 70, 65);
+    public static final Color UMBER = new Color(88, 77, 73);
+    public static final Color COPPER_RED = new Color(199, 103, 69);
+    public static final Color CHESTNUT = new Color(163, 75, 56);
 
-    /**
-     * @apiNote sets color to #FFFFFF mostly used for window layout background.
-     */
-    public static final Color WHITE = new Color(255, 255, 255);
-
-    /**
-     * @apiNote
-     * sets color to #E4D1D1 mostly used for window shadow.
-     */
-    public static final Color PALE_PINK = new Color(228, 209, 209);
-
-    /**
-     * @apiNote sets color to #FE6C90 used for window close and window markups
-     */
-    public static final Color PINK = new Color(254, 108, 144);
-
-    /**
-     * @apiNote sets color to #87286A used for window close indentation
-     */
-    public static final Color MAGENTA = new Color(135, 40, 106);
-
-    /**
-     * @apiNote sets color to #452459 this is a placeholder bc that's Scheme default XD
-     */
-    public static final Color PURPLE = new Color(69, 36, 89);
-
-    /**
-     * @apiNote sets color to #260D34 mostly used for text
-     */
-    public static final Color DEEP_PURPLE = new Color(38, 13, 52);
-    
 }
